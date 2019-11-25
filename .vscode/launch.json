@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ImageToTextBannerApplication",
+            "request": "launch",
+            "mainClass": "com.razodeh.imagetotextbanner.ImageToTextBannerApplication",
+            "projectName": "image-to-text-banner"
+        }
+    ]
+}
